@@ -10,5 +10,6 @@
 *.gitattributes text
 .gitignore text
 *.md text
-*.txt ident
-*.html ident
+*.htm      text diff=html
+*.html     text diff=html
+* ident
