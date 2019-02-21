@@ -6,3 +6,10 @@ publish:
 	cp DetailResume.html indexD.html
 	echo '<br>' >> indexD.html
 	date >> indexD.html
+	cat readme.txt > README.md
+	date >> README.md
+	git status
+commit: publish
+	git commit -a -m "my update for today"
+push: commit
+	git push
