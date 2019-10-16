@@ -4,6 +4,6 @@
   <title>Falak</title>
  </head>
  <body>
-  <p>Please follow <a href="/index.html">this link</a>
-  </body>
+   <?php Print "Hello, World!"; ?>
+ </body>
 </html>
