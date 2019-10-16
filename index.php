@@ -1,7 +1,7 @@
 <html>
  <head>
   <meta http-equiv="Refresh" content="3; url=/index.html" />
-  <title>Falak</title>
+  <title>FalCON nEST</title>
  </head>
  <body>
    <?php Print "Hello, World!"; ?>
