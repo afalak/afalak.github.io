@@ -1,5 +1,4 @@
 # afalak.github.io
-My Profile for internet
-with few things missing
-added
-Tue Feb  9 13:35:41 UTC 2021
+My Profile for internet with few things missing
+Will add a site called as afalak.cf soon
+Thu Feb 11 10:08:04 UTC 2021
