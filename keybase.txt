@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/afalak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://afalak.github.io
+  * I am afalak (https://keybase.io/afalak) on keybase.
+  * I have a public key ASCKmlRKVtssEWhLM92UAeVruvf8bD9EaaSeAvQ8qBcSBQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208a9a544a56db2c11684b33dd9401e56bbaf7fc6c3f4469a49e02f43ca81712050a",
+      "host": "keybase.io",
+      "kid": "01208a9a544a56db2c11684b33dd9401e56bbaf7fc6c3f4469a49e02f43ca81712050a",
+      "uid": "0d823a5ac5ad2adf3f6a097b8e775619",
+      "username": "afalak"
+    },
+    "merkle_root": {
+      "ctime": 1657513846,
+      "hash": "094170a8a6396c8c658fedf2e494dfaf53efe8ccfbd86a27fa3fa2de9124fd1be01b2596e1b5e20fc991bb3514a21940944e0e806f372524849ecca373871265",
+      "hash_meta": "2485ef6b947763844ea5469a756f1cadc9258c331c5fdc3320fca14abdd7dfb5",
+      "seqno": 22826240
+    },
+    "service": {
+      "entropy": "G5U/X3Xmsr/bEqxXc6ePdpSq",
+      "hostname": "afalak.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1657513900,
+  "expire_in": 504576000,
+  "prev": "c5f67e54d1e79daf32aff084e01727bf60c12b3b137f36e9834361d9de1ec9cd",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgippUSlbbLBFoSzPdlAHla7r3/Gw/RGmkngL0PKgXEgUKp3BheWxvYWTESpcCCMQgxfZ+VNHnna8yr/CE4Bcnv2DBKzsTfzbpg0Nh2d4eyc3EIC5rE57UKyEpYE+vSu87kGzGKLRNyvjVtnK1v1pOn2pXAgHCo3NpZ8RAwolt7EHZ88zbScWGMnfS3nr9n1PlG6HBO1en6ASfy2LJwMeKGE58aECy75t47EQQZaHmx7TY0XFFRYhIzKmkA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN1/LHMHsrLyaUBDGL8tZE/X5posMMYdisfRLQW+6O5Go3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/afalak
+
+==================================================================
